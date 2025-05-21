@@ -1,20 +1,21 @@
 # 仮想環境
-.venv/
 venv/
+.venv/
 
 # 環境変数ファイル
 .env
 
-# サービスアカウント JSON キー
+# サービスアカウント JSON
 brawl-blacklist-*.json
 
 # Python キャッシュ
 __pycache__/
 *.py[cod]
 
-# VSCode ワークスペース設定
+# VSCode 設定
 .vscode/
 
 # OS 一時ファイル
 .DS_Store
 Thumbs.db
+
